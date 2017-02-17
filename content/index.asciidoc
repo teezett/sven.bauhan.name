@@ -1,0 +1,10 @@
+= Bauhan
+Sven Bauhan <contact@sven.bauhan.name>
+2017-02-16
+:jbake-type: page
+:jbake-tags: info
+:jbake-status: published
+
+This page is home of family Bauhan.
+
+You can go to subpages for information of <<sven/index.asciidoc#,Sven Bauhan>>

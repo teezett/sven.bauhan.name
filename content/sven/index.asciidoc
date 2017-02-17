@@ -1,0 +1,16 @@
+= Sven Bauhan
+Sven Bauhan <contact@sven.bauhan.name>
+2017-02-16
+:jbake-type: page
+:jbake-tags: info
+:jbake-status: published
+
+== Personal Information
+
+****
+Sven Bauhan +
+https://www.openstreetmap.org/node/240074718#map=10/49.9048/8.5735[Darmstadt, Germany] +
+contact@sven.bauhan.name
+
+PGP Key: link:../data/SvenBauhan-gnupg1@sven.bauhan.name(0x52AC92A8)pub.asc[gnupg1@sven.bauhan.name(0x52AC92A8)]
+****
