@@ -1,0 +1,6 @@
+= Politik
+Sven Bauhan <contact@sven.bauhan.name>
+2017-02-19
+:jbake-type: page
+:jbake-tags: info
+:jbake-status: published
