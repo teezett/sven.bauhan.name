@@ -1,0 +1,36 @@
+= Sven Bauhan
+Sven Bauhan <contact@sven.bauhan.name>
+2017-02-16
+:jbake-type: page
+:jbake-tags: info
+:jbake-status: published
+
+My name is Sven Bauhan.
+This is my personal webpage.
+
+== Personal Information
+
+****
+Sven Bauhan +
+https://www.openstreetmap.org/node/240074718#map=10/49.9048/8.5735[Darmstadt, Germany] +
+contact@sven.bauhan.name
+
+PGP Key: link:../data/SvenBauhan-gnupg1@sven.bauhan.name(0x52AC92A8)pub.asc[gnupg1@sven.bauhan.name(0x52AC92A8)]
+****
+
+== Work
+
+****
+I work as software developer at http://www.dfs.de[Deutsche Flugsicherung GmbH].
+
+Here is my https://www.monster.de/resumes/Resume/PreviewResume/zy26tjvmdktvdgi5[Monster profile]
+and https://www.xing.com/profile/Sven_Bauhan?sc_o=mxb_p[Xing profile].
+****
+
+== Private activity
+
+****
+I work at founding a new housing project called http://www.heinersyndikat.de[Heinersyndikat].
+
+My software projects are hosted at https://github.com/teezett[Github].
+****
