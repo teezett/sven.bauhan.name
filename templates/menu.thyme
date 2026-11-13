@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <body>
-<nav th:fragment="menu" class="site-nav" th:with="root=${content.rootpath != null ? content.rootpath : ''}">
-  <a class="brand" th:href="${root + 'index.html'}">Sven Bauhan</a>
-  <a th:href="${root + 'index.html'}">Start</a>
-  <a th:href="${root + 'index-en.html'}">Home (English)</a>
-  <a th:href="${root + 'swe.html'}">Software Engineering</a>
-  <a th:href="${root + 'politics.html'}">Politik</a>
-  <a th:href="${root + 'spiritual.html'}">Spiritualität</a>
-</nav>
+<header th:fragment="menu" th:with="root=${content.rootpath != null ? content.rootpath : ''}">
+  <nav>
+    <ul><li><strong><a th:href="${root + 'index.html'}">Sven Bauhan</a></strong></li></ul>
+    <ul>
+      <li><a th:href="${root + 'index.html'}">Start</a></li>
+      <li><a th:href="${root + 'index-en.html'}">English</a></li>
+      <li><a th:href="${root + 'swe.html'}">Software</a></li>
+      <li><a th:href="${root + 'politics.html'}">Politik</a></li>
+      <li><a th:href="${root + 'spiritual.html'}">Spiritualität</a></li>
+    </ul>
+  </nav>
+</header>
 </body>
 </html>

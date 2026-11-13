@@ -2,11 +2,11 @@
 <html xmlns:th="http://www.thymeleaf.org" th:lang="${content.lang != null ? content.lang : 'de'}">
 <head th:replace="~{header.thyme::head}"></head>
 <body>
-  <div th:replace="~{menu.thyme::menu}"></div>
+  <header th:replace="~{menu.thyme::menu}"></header>
   <main>
     <h1 th:text="${content.title}">title</h1>
     <div th:utext="${content.body}">body</div>
   </main>
-  <div th:replace="~{footer.thyme::footer}"></div>
+  <footer th:replace="~{footer.thyme::footer}"></footer>
 </body>
 </html>

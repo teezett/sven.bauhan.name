@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <body>
-<footer th:fragment="footer" class="site-footer">
-  <p>&copy; Sven Bauhan &middot; Gebaut mit <a href="https://jbake.org">JBake <span th:text="${version}">version</span></a></p>
+<footer th:fragment="footer">
+  <small>&copy; Sven Bauhan &middot; Gebaut mit <a href="https://jbake.org">JBake <span th:text="${version}">version</span></a></small>
 </footer>
 </body>
 </html>
