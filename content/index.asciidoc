@@ -16,7 +16,7 @@ Sven Bauhan +
 https://www.openstreetmap.org/node/240074718#map=10/49.9048/8.5735[Darmstadt, Germany] +
 contact@sven.bauhan.name
 
-PGP Key: link:../data/SvenBauhan-gnupg1@sven.bauhan.name(0x52AC92A8)pub.asc[gnupg1@sven.bauhan.name(0x52AC92A8)]
+PGP Key: link:data/SvenBauhan-gnupg1@sven.bauhan.name(0x52AC92A8)pub.asc[gnupg1@sven.bauhan.name(0x52AC92A8)]
 ****
 
 == Beruf
