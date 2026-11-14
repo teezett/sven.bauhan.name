@@ -7,9 +7,6 @@
     <ul>
       <li><a th:href="${root + 'index.html'}">Start</a></li>
       <li><a th:href="${root + 'index-en.html'}">English</a></li>
-      <li><a th:href="${root + 'swe.html'}">Software</a></li>
-      <li><a th:href="${root + 'politics.html'}">Politik</a></li>
-      <li><a th:href="${root + 'spiritual.html'}">Spiritualität</a></li>
     </ul>
   </nav>
 </header>
