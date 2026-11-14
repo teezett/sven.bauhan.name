@@ -1,37 +1,43 @@
 = Sven Bauhan
 Sven Bauhan <contact@sven.bauhan.name>
-2017-02-16
+2026-11-15
 :jbake-type: page
 :jbake-tags: info
 :jbake-status: published
 :lang: en
 
-My name is Sven Bauhan.
+I am a electronic engineer and currently work as a product and requirements manager at the German air navigation service provider DFS.
 This is my personal webpage.
 
-== Personal Information
+== Contact
 
 ****
-Sven Bauhan +
 https://www.openstreetmap.org/node/240074718#map=10/49.9048/8.5735[Darmstadt, Germany] +
-contact@sven.bauhan.name
-
-PGP Key: link:data/SvenBauhan-gnupg1@sven.bauhan.name(0x52AC92A8)pub.asc[gnupg1@sven.bauhan.name(0x52AC92A8)]
+contact@sven.bauhan.name +
+Matrix: on request
 ****
 
-== Work
+== Curriculum vitae
+
+since 2018::
+https://www.dfs.de[Deutsche Flugsicherung GmbH], requirements and product management
+
+2003–2018::
+https://www.dfs.de[Deutsche Flugsicherung GmbH], software development
+
+1999–2003::
+Research associate, https://www.tuhh.de[Hamburg University of Technology (TUHH)]
+
+1992–1999::
+Studies in electrical engineering (focus on communications engineering) at https://www.tu-braunschweig.de[TU Braunschweig], graduated as Dipl.-Ing.
+
+1992::
+Abitur, Berufliches Gymnasium Eschwege
+
+== Projects
 
 ****
-I work as software developer at http://www.dfs.de[Deutsche Flugsicherung GmbH].
+My software projects are hosted on https://github.com/teezett[GitHub].
 
-Here is my https://www.monster.de/resumes/Resume/PreviewResume/zy26tjvmdktvdgi5[Monster profile]
-and https://www.xing.com/profile/Sven_Bauhan?sc_o=mxb_p[Xing profile].
-****
-
-== Private activity
-
-****
-I work at founding a new housing project called http://www.heinersyndikat.de[Heinersyndikat].
-
-My software projects are hosted at https://github.com/teezett[Github].
+I am actively involved in the housing project http://www.heinersyndikat.de[Heinersyndikat].
 ****

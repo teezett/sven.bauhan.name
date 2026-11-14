@@ -1,37 +1,43 @@
 = Sven Bauhan
 Sven Bauhan <contact@sven.bauhan.name>
-2017-02-16
+2026-11-15
 :jbake-type: page
 :jbake-tags: info
 :jbake-status: published
 :lang: de
 
-Mein Name ist Sven Bauhan.
+Ich bin Elektro-Ingenieur und arbeite derzeit als Produkt- und Anforderungsmanager bei der Deutschen Flugsicherung.
 Das ist meine private Internetpräsenz.
 
-== Kontaktdaten
+== Kontakt
 
 ****
-Sven Bauhan +
 https://www.openstreetmap.org/node/240074718#map=10/49.9048/8.5735[Darmstadt, Germany] +
-contact@sven.bauhan.name
-
-PGP Key: link:data/SvenBauhan-gnupg1@sven.bauhan.name(0x52AC92A8)pub.asc[gnupg1@sven.bauhan.name(0x52AC92A8)]
+contact@sven.bauhan.name +
+Matrix: auf Anfrage
 ****
 
-== Beruf
+== Lebenslauf
+
+seit 2018::
+https://www.dfs.de[Deutsche Flugsicherung GmbH], Anforderungs- und Produktmanagement
+
+2003–2018::
+https://www.dfs.de[Deutsche Flugsicherung GmbH], Softwareentwicklung
+
+1999–2003::
+Wissenschaftlicher Mitarbeiter, https://www.tuhh.de[Technische Universität Hamburg-Harburg]
+
+1992–1999::
+Studium der Elektrotechnik (Schwerpunkt Nachrichtentechnik) an der https://www.tu-braunschweig.de[TU Braunschweig], Abschluss als Dipl.-Ing.
+
+1992::
+Abitur, Berufliches Gymnasium Eschwege
+
+== Projekte
 
 ****
-Ich arbeite derzeit als Softwareentwickler bei der http://www.dfs.de[Deutschen Flugsicherung GmbH].
+Meine Software-Projekte sind auf https://github.com/teezett[GitHub] zu finden.
 
-Hier ist mein https://www.monster.de/resumes/Resume/PreviewResume/zy26tjvmdktvdgi5[Monster Profil]
-und mein https://www.xing.com/profile/Sven_Bauhan?sc_o=mxb_p[Xing Profil].
-****
-
-== Private Aktivitäten
-
-****
-Ich beteilige mich an der Gründung eines Wohnprojekts names http://www.heinersyndikat.de[Heinersyndikat].
-
-Meine Software Projekte habe ich bei https://github.com/teezett[Github] gehostet.
+Ich engagiere mich im Wohnprojekt http://www.heinersyndikat.de[Heinersyndikat].
 ****
